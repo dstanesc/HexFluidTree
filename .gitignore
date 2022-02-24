@@ -1,0 +1,7 @@
+build/
+dist/
+docs/content/api/
+node_modules/
+*.tsbuildinfo
+*.log
+.hugo_build.lock
