@@ -8,7 +8,7 @@ A draft [design document](./docs/design-notes.md) is available in the docs folde
 
 ## Demo
 
-A [2 min video](./docs/video/dds-playground.mp4) demonstrating current capabilities is included in the `docs/video` folder.
+A [2 min video](./docs/video/play.mp4) demonstrating current capabilities is included in the `docs/video` folder.
 
 ## Prerequisites / Validated with
 
