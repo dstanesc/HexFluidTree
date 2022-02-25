@@ -1,4 +1,4 @@
-# Experimental Tree Distributed Data Structure (PoC)
+# FluidFramework Experimental Tree Distributed Data Structure (PoC)
 
 ## Motivation
 
@@ -6,7 +6,11 @@
 
 A draft [design document](./docs/design-notes.md) is available in the docs folder.
 
-## Prerequisites / Validate with
+## Demo
+
+A [2 min video](./docs/video/dds-playground.mp4) demonstrating current capabilities is included in the `docs/video` folder.
+
+## Prerequisites / Validated with
 
 ```sh
 node --version
