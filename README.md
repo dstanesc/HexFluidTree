@@ -1,4 +1,12 @@
-# Tree PoC
+# Experimental Tree Distributed Data Structure (PoC)
+
+## Motivation
+
+## Documentation
+
+A draft [design document](./docs/design-notes.md) is available in the docs folder.
+
+## Prerequisites / Validate with
 
 ```sh
 node --version
@@ -38,7 +46,7 @@ cd HexFluidTree
 npm run hello-tree
 ```
 
-Open a browser to (http://localhost:8080)[http://localhost:8080] copy the full URL you're redirected to. Open a second window using the copied URL to collaborate.
+Open a browser to [http://localhost:8080](http://localhost:8080) copy the full URL you're redirected to. Open a second window using the copied URL to collaborate.
 
 
 ## Disclaimer
